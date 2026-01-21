@@ -22,11 +22,11 @@ Error generating stack: `+a.message+`
           My specialty is in puzzle and strategy games. I like to make people think.
           Experience integrating games with Steam API, such as achievements and
           peer-to-peer multiplayer. 
-        `}),yl.jsx(_s,{title:"Toggle Tile",url:"https://store.steampowered.com/app/3160170/Toggle_Tile/",thumbnail:"/gifs/toggle_tile.gif",description:`
+        `}),yl.jsx(_s,{title:"Toggle Tile",url:"https://store.steampowered.com/app/3160170/Toggle_Tile/",thumbnail:"gifs/toggle_tile.gif",description:`
           Toggle, shift and rotate tiles to turn them all on. 
           Each tile has a grid inside it that affects the whole board when clicked. 
           Explore the surprising complexity arising from the interactions between the different effects.
-        `}),yl.jsx(_s,{title:"Local Dominator",url:"https://localdominator.co/",thumbnail:"/images/local_dominator.png",description:`
+        `}),yl.jsx(_s,{title:"Local Dominator",url:"https://localdominator.co/",thumbnail:"images/local_dominator.png",description:`
           An SEO platform that allows business owners to track their ranking
           in search results. The searches happen at points in a specified area.
         `}),yl.jsx(As,{})]})}e1.createRoot(document.getElementById("root")).render(yl.jsx(kd.StrictMode,{children:yl.jsx(n1,{})}));
